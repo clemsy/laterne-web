@@ -1,0 +1,55 @@
+html,body {
+    font-family: 'Questrial', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+body.bg-img {
+      background-image: url(../img/AA000078.jpeg) ;
+      background-position: center center;
+      background-repeat:  no-repeat;
+      background-attachment: fixed;
+      background-size:  cover;
+      background-color: #fff;
+
+  }
+
+.hero.is-success {
+    background: #fff;
+}
+.hero.is-success .title {
+    color: #000;
+}
+.hero .nav, .hero.is-success .nav {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.box {
+    margin-top: 5rem;
+}
+.avatar {
+    margin-top: -70px;
+    padding-bottom: 20px;
+}
+.avatar img {
+    padding: 15px;
+    background: #fff;
+
+}
+input {
+    font-weight: 300;
+}
+p {
+    font-weight: 700;
+}
+p.subtitle {
+    padding-top: 1rem;
+}
+
+.has-text-black{
+    color: black;
+}
+
+.fa{
+    margin-left: 5px;
+}
